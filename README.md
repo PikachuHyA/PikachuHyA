@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PikachuHyAlibaba. This is my official work account, when I work at Alibaba.
+- 👋 Hi, I’m @PikachuHyA. This is my official work account, when I work at Alibaba.
 - 👀 I’m interested in Programming Language && Compiler
 - 🌱 I’m currently learning LLVM
 - 💞️ I’m looking to collaborate on Compiler
