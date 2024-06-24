@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is the special account I use for my work at Alibaba.
+This is the special account I use for Open Source world (e.g. Bazel, LLVM, Triton)
 
 Only work-related, no personal information.
 
@@ -23,5 +23,5 @@ Only work-related, no personal information.
 - 👀 I’m interested in Programming Language && Compiler
 - 🌱 I’m currently learning LLVM
 - 💞️ I’m looking to collaborate on Compiler
-- 📫 How to reach me: pikachuhy@linux.alibaba.com
+- 📫 How to reach me: pikachuhya@gmail.com
 
